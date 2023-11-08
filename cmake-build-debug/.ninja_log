@@ -1,0 +1,9 @@
+# ninja log v5
+317	1258	7210744553978180	CMakeFiles/Instrument.dir/Instrument.cpp.obj	26c4a0a83325a589
+332	1241	7210744553803609	CMakeFiles/Instrument.dir/StringInstrument.cpp.obj	ed726ccd6f6b9ce4
+6	163	7210750022960060	C:/Users/amoah/CLionProjects/Instrument/cmake-build-debug/runner.cpp	65964ef83747c33e
+1	1060	7210739547315633	CMakeFiles/Instrument.dir/main.cpp.obj	9cb1d814aeff375
+6	163	7210750022960060	runner.cpp	65964ef83747c33e
+2049	2235	7210750043671086	Instrument.exe	6e4edbde810af30e
+164	2049	7210750041860308	CMakeFiles/Instrument.dir/runner.cpp.obj	9390f4264b3ebf3a
+2	874	7211503639640495	build.ninja	a50ad02b4426d1ba
